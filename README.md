@@ -1,6 +1,6 @@
-# graphcore
+# GraphCore
 
-Graphcore is a library that provides an interface for rendering complex and animated models. It aims to be lightweight and platform-independent.
+GraphCore is a library that provides an interface for rendering complex and animated models. It aims to be lightweight and platform-independent.
 Another abstraction layer will be added to allow rendering through graphics libraries other than OpenGL, to provide the best performance in different environments.
 
 The project also defines a file format that is designed to be easy to read, and ready to be drawn. An application translating Collada models to this format is provided.
