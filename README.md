@@ -10,6 +10,7 @@ Graphcore has the following dependencies:
  - GLFW 3.2
  - GLEW
  - SOIL (to be replaced with our image loader)
+ - GLM (to be replaced with our math libraries)
  
  Collada2bin has the following dependencies:
  - ASSIMP
